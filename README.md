@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilsnayak3473&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilsnayak3473" /> </p>
 
-- 👨‍💻 All of my projects are available at [nikhilsnayak3473.github.io](nikhilsnayak3473.github.io)
+- 👨‍💻 All of my projects are available at [nikhilsnayak3473.github.io](https://nikhilsnayak3473.github.io)
 
 - 💬 Ask me about **Java, Spring Framework, React.js**
 
 - 📫 How to reach me **nikhilsnayak3473@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ciZtGioyJM_51Wr_crS0U92gJpVIm8O-/view?usp=share_link](https://drive.google.com/file/d/1ciZtGioyJM_51Wr_crS0U92gJpVIm8O-/view?usp=share_link)
+- 📄 Know about my experiences [Click here for Resume](https://drive.google.com/file/d/1ciZtGioyJM_51Wr_crS0U92gJpVIm8O-/view?usp=share_link)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhilsnayak3473&show_icons=true&locale=en&layout=compact" alt="nikhilsnayak3473" /></p>
 
