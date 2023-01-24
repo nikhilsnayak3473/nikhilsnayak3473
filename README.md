@@ -11,8 +11,11 @@
 
 - 📄 Know about my experiences -> [Resume](https://drive.google.com/file/d/1ciZtGioyJM_51Wr_crS0U92gJpVIm8O-/view?usp=share_link)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhilsnayak3473&show_icons=true&locale=en&layout=compact" alt="nikhilsnayak3473" /></p>
+<br/>
+<br/>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhilsnayak3473&show_icons=true&locale=en&layout=compact" alt="nikhilsnayak3473" /></p>
 
+<br/>
+<br/>
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhilsnayak3473&show_icons=true&locale=en" alt="nikhilsnayak3473" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhilsnayak3473&show_icons=true&locale=en" alt="nikhilsnayak3473" /></p>
